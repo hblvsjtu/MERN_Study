@@ -15,5 +15,15 @@
      
 ## 目录
 ## [一、简介](https://github.com/hblvsjtu/MERN_Study/blob/master/MERN_Study.md#1)
-### [1.1 背景和特点](https://github.com/hblvsjtu/MERN_Study/blob/master/MERN_Study.md#1.1)
+### [1.1 背景](https://github.com/hblvsjtu/MERN_Study/blob/master/MERN_Study.md#1.1)
+### [1.2 需要用到的工具或者库](https://github.com/hblvsjtu/MERN_Study/blob/master/MERN_Study.md#1.2)
+### [1.3 为什么要使用MERN技术栈](https://github.com/hblvsjtu/MERN_Study/blob/master/MERN_Study.md#1.3)
+## [二、Express](https://github.com/hblvsjtu/MERN_Study/blob/master/MERN_Study.md#2)
+### [2.1 背景](https://github.com/hblvsjtu/MERN_Study/blob/master/MERN_Study.md#2.1)
+### [2.2 需要用到的工具或者库](https://github.com/hblvsjtu/MERN_Study/blob/master/MERN_Study.md#2.2)
+### [2.3 利用 Express 托管静态文件](https://github.com/hblvsjtu/MERN_Study/blob/master/MERN_Study.md#2.3)
+## [三、MongoDB](https://github.com/hblvsjtu/MERN_Study/blob/master/MERN_Study.md#3)
+### [3.1 背景](https://github.com/hblvsjtu/MERN_Study/blob/master/MERN_Study.md#2.1)
+### [3.2 需要用到的工具或者库](https://github.com/hblvsjtu/MERN_Study/blob/master/MERN_Study.md#3.2)
+### [3.3 利用 Express 托管静态文件](https://github.com/hblvsjtu/MERN_Study/blob/master/MERN_Study.md#3.3)
 
